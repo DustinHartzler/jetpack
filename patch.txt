@@ -1,0 +1,9 @@
+commit 151ac9c11807849d168c1096a94218abfd517610
+Merge: 0dd7e55 9f4cdc4
+Author: Sam Hotchkiss <samhotchkiss@users.noreply.github.com>
+Date:   Mon Jan 12 20:10:33 2015 -0700
+
+    Merge pull request #1491 from Automattic/testimonial-cpt-option
+    
+    Add option to add Testimonial CPT in admin
+
